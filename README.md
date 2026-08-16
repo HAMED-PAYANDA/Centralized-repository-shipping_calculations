@@ -5,6 +5,7 @@
 A collaborative software engineering project demonstrating centralized Git workflows, version control, and modularized Python logic for calculating e-commerce shipping costs.
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![IBM Certification](https://img.shields.io/badge/IBM-Full%20Stack%20Software%20Developer%20Professional-blue?style=for-the-badge&logo=ibm)](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 [![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Centralized_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
@@ -105,10 +106,12 @@ All contributions undergo a code review process.
 Licensing:
 Contributions are licensed
 
-👤 Author
-Hamed Payanda
-•	GitHub: @HAMED-PAYANDA
-Completed as part of the IBM CognitiveClass.ai / Skills Network Software Engineering Curriculum.
+## 👤 Author
+
+**Hamed Payanda**
+* **GitHub:** [@HAMED-PAYANDA](https://github.com/HAMED-PAYANDA)
+* Completed as part of the **IBM Full-Stack Software Developer Professional**.
+
 
 
 
