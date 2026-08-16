@@ -52,13 +52,12 @@ Core Workflow Principles Implemented:
 •	Modular Codebase: Shipping calculation logic is isolated into clean, reusable functions.
 •	Collaborative Updates: Fetching and pulling the latest team changes before pushing new features.
 ---
+## 🛠️ Core Tech Stack & Tools
 
-🛠️ Tech Stack & Tools
-Category	Technology	Purpose
-Language	Python	Core logic for the shipping calculation algorithm
-Version Control	Git	Tracking code changes and managing local repositories
-Hosting Platform	GitHub	Centralized collaboration and code sharing
-Environment	Cloud IDE / Terminal	Code execution and CLI Git commands
+* **Language:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) — Core logic for the shipping calculation algorithm.
+* **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) — Tracking code changes and managing local repositories.
+* **Hosting Platform:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) — Centralized collaboration and code sharing.
+* **Environment:** 💻 **Cloud IDE / Terminal** — Code execution and CLI Git commands.
 ---
 
 📁 Repository Structure
